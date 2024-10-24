@@ -40,6 +40,8 @@ message.style.display="none";
 
 
     }
+
+    
 }
 btn.addEventListener("click",addnotes);
 
